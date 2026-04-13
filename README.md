@@ -1,6 +1,3 @@
-# GIS-Portfolio
-GIS &amp; Remote Sensing portfolio showcasing skills in data analysis, spatial modelling, and mapping. Experienced with QGIS, ArcGIS Pro, Google Earth Engine, and remote sensing tools, with focus on accessibility, databases, and decision support.
-
 # 🌍 GIS & Remote Sensing Portfolio
 
 Welcome to my GIS & Remote Sensing portfolio. This repository showcases my expertise in spatial analysis, remote sensing, and decision support systems applied to real-world challenges.
