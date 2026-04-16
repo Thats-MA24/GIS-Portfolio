@@ -29,7 +29,7 @@ A GIS-based predictive model developed to identify **high-risk areas for fiber-o
 
 ### 🗺️ Preview
 
-![Fault Risk Map](TTCL-Network-Fault-Prediction/outputs/maps/fault_risk_map.png)
+![Fault Risk Map](TTCL-Network-Fault-Prediction/TTCL-Network-Fault-Prediction/outputs/maps/fault_risk_map.png)
 
 📂 Folder: `TTCL-Network-Fault-Prediction`
 
@@ -91,7 +91,7 @@ A spatial analysis project identifying clusters of public facilities using **Ker
 
 # 🌐 Connect With Me
 
-* LinkedIn: *(Add your link here)*
+* LinkedIn: www.linkedin.com/in/augustino-abraham-3825673a5
 * GitHub: https://github.com/Augustino-Abraham
 
 ---
