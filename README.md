@@ -47,7 +47,7 @@ A remote sensing project analyzing **fire-affected areas** using satellite image
 
 🗺️ Preview
 
-![Burn Severity Map](Burn_Severity_Analysis/burn_severity_map.png)
+![Burn Severity Map](Burn_Severity_Analysis/Burn_Severity_Map.png)
 
 📂 Folder: `Burn_Severity_Analysis`
 
@@ -65,7 +65,7 @@ A spatial analysis project identifying clusters of public facilities using **Ker
 
 🗺️ Preview
 
-![Hotspot Map](Public_Facilities_Hotspot_Dodoma/Public Facilities Hotspot Map of Dodoma Urban.png)
+![Hotspot Map](Public_Facilities_Hotspot_Dodoma/Public_Facilities_Hotspot_Map_of_Dodoma_Urban.png)
 
 📂 Folder: `Public_Facilities_Hotspot_Dodoma`
 
