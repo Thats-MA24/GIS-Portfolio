@@ -65,7 +65,7 @@ A spatial analysis project identifying clusters of public facilities using **Ker
 
 🗺️ Preview
 
-![Hotspot Map](Public_Facilities_Hotspot_Dodoma/Public Facilities Hotspot Map of Dodoma Urban.pdf)
+![Hotspot Map](Public_Facilities_Hotspot_Dodoma/Public Facilities Hotspot Map of Dodoma Urban.png)
 
 📂 Folder: `Public_Facilities_Hotspot_Dodoma`
 
